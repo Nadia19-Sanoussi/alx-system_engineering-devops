@@ -1,2 +1,1 @@
-# project-git
-new repo
+just readme
