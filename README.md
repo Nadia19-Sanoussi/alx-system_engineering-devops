@@ -1,1 +1,1 @@
-just readme
+git basic project
